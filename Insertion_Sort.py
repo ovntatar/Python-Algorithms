@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
 def insert(L, i):
     """ (list, int) -> NoneType
 
