@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 def bubble_sort(L):
     """ (list) -> NoneType
 
